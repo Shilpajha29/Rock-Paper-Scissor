@@ -32,17 +32,11 @@ h1{
 .choice{
     height: 165px;
     width: 165px;
-    /* border-radius: 50%; */
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
 }
 img:hover{
     cursor:pointer;
     transform: scale(1.05,1.05);
     box-shadow: 0px 0px 15px 2px rgb(158, 167, 173) ;
-    /* background-color: var(--accent); */
-    /* border: solid 2px var(--accent); */
 }
 img{
     height: 150px;
